@@ -1,4 +1,4 @@
-# GDPR
+# GDPR (Vijay's copy)
 
 Two Years Later, and A Few Euros Shorter: Real-world Impact of GDPR
 ------------------------------------------------------------
